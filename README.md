@@ -27,3 +27,17 @@ El desarrollo y los hallazgos de este proyecto se encuentran documentados en [in
 
 - La fuente de los datos proviene del RETO B – Social: Analítica de datos (Predicción de consumo energético en edificios) del Datathon [AI4ES 2023](https://www.ai4es.com/ai4es-datathon-2023/)
 - Predicción (forecasting) de la demanda eléctrica con Python by Joaquín Amat Rodrigo and Javier Escobar Ortiz, disponible con licencia CC BY-NC-SA 4.0 en [forecasting-demanda-energia-electrica-python](https://www.cienciadedatos.net/py29-forecasting-demanda-energia-electrica-python.html)
+
+## 👩‍💻 ```Data Scientist```
+
+Si deseas contactarme, simplemente haz clic sobre mi nombre y serás redirigido a mi perfil de LinkedIn. Estaré encantada 🤗 de responder a tus consultas y compartir más detalles sobre mis habilidades y experiencia.
+
+<div align="center">
+
+[<img src="https://avatars.githubusercontent.com/u/123108361?v=4" width=115><br><sub>Danniela Rodríguez</sub>](https://www.linkedin.com/in/danniela-rodriguez-jove-/)
+
+<div align="left">
+
+## 🙌 ```Agradecimiento y Actualizaciones```
+
+_¡Gracias por revisar este proyecto_ 🤗! _Si deseas estar al tanto de futuras actualizaciones, te invito a marcar el repositorio con un estrella_ ⭐. _Puedes encontrar la opción para hacerlo en la parte superior derecha de la página. Tu apoyo es muy apreciado._
